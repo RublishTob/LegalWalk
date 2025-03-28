@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08165d988ef56466e9fa6a79c710260c
+AssemblyDefinitionReferenceImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226225
+  packageName: '[Free] Prata: Dialogs in seconds'
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/BerserkPixel/Prata/Editor/com.berserkpixel.prata.asmref
+  uploadId: 518640
